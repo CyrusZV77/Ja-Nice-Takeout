@@ -1,0 +1,1 @@
+export default function Photo({name,alt,className=""}:{name:string,alt:string,className?:string}){return <div className={"photo "+className}><img src={`/images/${name}.jpg`} alt={alt}/></div>}

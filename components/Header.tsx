@@ -1,0 +1,1 @@
+import Link from "next/link";export default function Header(){return <header className="header"><Link href="/" className="brand"><span>JA-NICE</span> TAKEOUT</Link><nav><Link href="/">Home</Link><Link href="/menu">Menu</Link><Link href="/about">About</Link><Link href="/visit">Visit</Link></nav><a className="order" href="tel:+19052969320">Call to order</a></header>}

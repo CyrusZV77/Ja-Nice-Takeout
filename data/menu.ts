@@ -1,0 +1,11 @@
+export const sections=[
+{slug:"chicken",title:"Chicken",note:"Meals include your choice of two sides.",items:[["Fried Chicken","$13.00","Hand-breaded and fried 2-piece meal."],["Jerk Chicken","$13.00","Chicken leg quarter seasoned with Jamaican jerk spices."],["Curry Chicken","$13.00","Seasoned and sauteed in Jamaican curry."],["Stew Chicken","$13.00","Seasoned and simmered in brown stew."],["Rotisserie Chicken — 1/4 White","$13.00","Slow roasted with crispy skin."],["Rotisserie Chicken — 1/4 Dark","$13.00",""],["Rotisserie Chicken — 1/2","$18.00",""],["Rotisserie Chicken — Whole","$25.00",""]]},
+{slug:"goat-oxtail",title:"Goat & Oxtail",note:"Meals include your choice of two sides.",items:[["Curry Goat","$15.00","Seasoned and sauteed in Jamaican curry."],["Oxtail","$16.00","Seasoned and simmered in brown stew."]]},
+{slug:"fish",title:"Fish",note:"Meals include your choice of two sides.",items:[["Red Snapper","$20.00 + up","Marinated and fried with gravy."],["King Fish","$16.00 + up","Marinated and fried with gravy."]]},
+{slug:"roti",title:"Roti Wraps",note:"Made to order.",items:[["Curry Goat","$14.00","Boneless goat meat with gravy and potatoes."],["Curry Chicken","$13.00","Boneless chicken breast with gravy and potatoes."],["Curry Chickpeas","$13.00","Chickpeas with gravy and potatoes."]]},
+{slug:"patties",title:"Jamaican Patties",note:"Add cornbread for $2.00.",items:[["Mild Beef","$3.00",""],["Spicy Beef","$3.00",""],["Chicken","$3.00",""],["Vegetable","$3.50",""]]},
+{slug:"drinks",title:"Drinks",note:"",items:[["D&G Sodas","$3.00",""],["Busta / Bigga","$3.50",""],["Tropical Rhythm","$3.50",""],["Ting","$3.50",""],["Ginger Beer","$3.00",""],["Tiger Malt","$3.00",""],["Peanut Punch","$3.00",""],["Nutrament","$5.00",""],["Canned Pop","$2.50",""]]}
+];
+export const sides=["Rice and Peas","White Rice","Garden Salad","Macaroni Salad","Coleslaw","Steamed Vegetables"];
+export const soups=[["Monday","Chicken Soup"],["Tuesday","Chicken Soup"],["Wednesday","Cow Foot"],["Thursday","Red Peas"],["Friday","Fish Tea"],["Saturday","Goat Head"]];
+export const breakfast=["Ackee and Saltfish","Callaloo","Boiled Banana","Boiled Dumpling","Fried Dumpling","Festival","Fried Plantain"];

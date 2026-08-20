@@ -1,0 +1,1 @@
+export const business={name:"Ja-Nice Takeout",phone:"(905) 296-9320",tel:"+19052969320",address:"12 Tisdale St N",city:"Hamilton, ON",instagram:"https://www.instagram.com/janicetakeout/",hours:[["Monday","11 AM – 7 PM"],["Tuesday","11 AM – 7 PM"],["Wednesday","11 AM – 7 PM"],["Thursday","11 AM – 7 PM"],["Friday","11 AM – 7 PM"],["Saturday","9 AM – 7 PM"],["Sunday","Closed"]]};
